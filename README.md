@@ -1,7 +1,7 @@
 ### 👩‍💻 About me:
 - I am a Software Engineering student sharing my journey and learnings in tech.
 - All my coding projects are built from the ground up, from planning and designing to solving real-life problems with code.<br>
-- Check out my repos ⬇
+- Check out my repos!!!
 
 ### 💻 Languages and Tools
 <img align="left" alt="Visual Studio Code" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original-wordmark.svg" />
